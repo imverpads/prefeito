@@ -1,0 +1,18 @@
+.DS_Store
+Thumbs.db
+*.log
+
+# ferramentas de desenvolvimento locais (não fazem parte do site publicado)
+_*.html
+
+# site anterior (biográfico), mantido localmente só como referência
+index.legacy-biografico.html
+
+# fotos e SVGs antigos do site anterior — pesados e não usados pelo site atual
+fotos/
+img/IMG_*.JPG.jpeg
+img/foto prefeito sem fundo.png
+img/foto prefeito.jpeg
+img/hero.png
+img/sobre.jpg
+img/traj.jpg
